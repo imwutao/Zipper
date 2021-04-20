@@ -1,5 +1,5 @@
 {
-  "name": "zys/zipper",
+  "name": "wutaophp/zipper",
   "type": "library",
   "description": "This is a little neat helper for the ZipArchive methods with handy functions",
   "keywords": [
@@ -7,7 +7,7 @@
     "ZIP",
     "Archive"
   ],
-  "homepage": "http://github.com/fengzi91/zipper",
+  "homepage": "http://github.com/wutaos/zipper",
   "license": "proprietary",
   "authors": [
     {
